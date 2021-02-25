@@ -1,0 +1,446 @@
+2021-01-25 22:50:43 INFO     [app.py:13] Loading books list...
+2021-01-25 22:50:45 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+2021-01-25 22:55:46 INFO     [menu.py:21] Finding best books...
+2021-01-25 22:55:48 INFO     [menu.py:30] Finding cheapest books...
+2021-01-25 22:55:49 INFO     [menu.py:30] Finding cheapest books...
+2021-01-25 22:55:57 INFO     [menu.py:39] Getting next book from books_generator
+2021-02-02 20:12:32 INFO     [app.py:13] Loading books list...
+2021-02-02 20:12:33 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+2021-02-02 23:10:56 INFO     [app.py:16] Loading books list...
+2021-02-02 23:10:57 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+2021-02-02 23:12:09 INFO     [app.py:16] Loading books list...
+2021-02-02 23:12:10 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+2021-02-02 23:12:51 INFO     [app.py:16] Loading books list...
+2021-02-02 23:12:52 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+2021-02-02 23:31:03 INFO     [app.py:34] Loading books list...
+2021-02-02 23:35:55 INFO     [app.py:34] Loading books list...
+2021-02-02 23:36:12 INFO     [app.py:34] Loading books list...
+2021-02-02 23:36:25 INFO     [app.py:34] Loading books list...
+2021-02-04 18:25:00 INFO     [app.py:34] Loading books list...
+2021-02-04 18:26:11 INFO     [app.py:35] Loading books list...
+2021-02-04 18:28:18 INFO     [app.py:35] Loading books list...
+2021-02-04 18:33:54 INFO     [app.py:35] Loading books list...
+2021-02-04 18:36:28 INFO     [app.py:35] Loading books list...
+2021-02-04 18:37:21 INFO     [app.py:35] Loading books list...
+2021-02-04 18:38:35 INFO     [app.py:35] Loading books list...
+2021-02-08 17:37:44 INFO     [app.py:35] Loading books list...
+2021-02-08 17:48:54 INFO     [app.py:33] Loading books list...
+2021-02-08 17:49:26 INFO     [app.py:33] Loading books list...
+2021-02-08 17:49:41 INFO     [app.py:33] Loading books list...
+2021-02-08 17:50:02 INFO     [app.py:33] Loading books list...
+2021-02-08 17:50:04 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+2021-02-08 17:52:22 INFO     [app.py:33] Loading books list...
+2021-02-08 17:52:45 INFO     [app.py:33] Loading books list...
+2021-02-08 18:01:57 INFO     [app.py:34] Loading books list...
+2021-02-08 18:01:59 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+2021-02-08 18:05:19 INFO     [menu.py:22] Finding best books...
+2021-02-08 18:05:26 INFO     [menu.py:31] Finding cheapest books...
+2021-02-08 18:05:42 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 18:05:43 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 18:05:45 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 18:05:54 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 18:10:59 INFO     [app.py:36] Loading books list...
+2021-02-08 18:11:00 INFO     [app.py:21] Page took 1.3531253337860107 to load
+2021-02-08 18:11:01 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.2788910865783691 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.3131585121154785 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.297532320022583 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.3288965225219727 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.3288965225219727 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.3132703304290771 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.344416856765747 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.3600313663482666 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.360029935836792 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.3756561279296875 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.360029935836792 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.4069042205810547 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.4069023132324219 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.4069023132324219 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.4381520748138428 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.4537780284881592 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.4694013595581055 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.5006473064422607 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.5006473064422607 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.5162713527679443 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.5162713527679443 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.5006451606750488 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.5318944454193115 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.5475187301635742 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.5318925380706787 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.5475187301635742 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.5475165843963623 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.5787699222564697 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.5943903923034668 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.5601229667663574 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.6100175380706787 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.7350044250488281 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 1.9381189346313477 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 2.0318639278411865 to load
+2021-02-08 18:11:03 INFO     [app.py:21] Page took 2.04748797416687 to load
+2021-02-08 18:11:04 INFO     [app.py:21] Page took 2.246537685394287 to load
+2021-02-08 18:11:04 INFO     [app.py:21] Page took 2.2620151042938232 to load
+2021-02-08 18:11:04 INFO     [app.py:21] Page took 2.297473669052124 to load
+2021-02-08 18:11:04 INFO     [app.py:21] Page took 2.297473669052124 to load
+2021-02-08 18:11:04 INFO     [app.py:21] Page took 2.2932634353637695 to load
+2021-02-08 18:11:04 INFO     [app.py:21] Page took 2.3130950927734375 to load
+2021-02-08 18:11:04 INFO     [app.py:21] Page took 2.3130950927734375 to load
+2021-02-08 18:11:04 INFO     [app.py:21] Page took 2.328721523284912 to load
+2021-02-08 18:11:06 INFO     [app.py:21] Page took 4.523035287857056 to load
+2021-02-08 18:11:07 INFO     [app.py:21] Page took 5.999345779418945 to load
+2021-02-08 18:11:19 INFO     [app.py:21] Page took 17.683505058288574 to load
+2021-02-08 18:11:20 INFO     [app.py:21] Page took 18.194187879562378 to load
+2021-02-08 18:11:20 INFO     [app.py:21] Page took 18.194187879562378 to load
+2021-02-08 18:11:20 INFO     [app.py:21] Page took 18.209814071655273 to load
+2021-02-08 18:12:06 INFO     [app.py:36] Loading books list...
+2021-02-08 18:12:08 INFO     [app.py:21] Page took 1.2997493743896484 to load
+2021-02-08 18:12:09 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+2021-02-08 18:12:11 INFO     [app.py:21] Page took 2.4859397411346436 to load
+2021-02-08 18:12:11 INFO     [app.py:21] Page took 2.4859397411346436 to load
+2021-02-08 18:12:11 INFO     [app.py:21] Page took 2.4975473880767822 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 2.7874648571014404 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 2.7874648571014404 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 2.7874648571014404 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 2.802917957305908 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 2.802917957305908 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 2.8219611644744873 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 2.818540573120117 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 2.8497886657714844 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 2.865410566329956 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 2.8810389041900635 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 2.8966617584228516 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 2.8966617584228516 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 2.9122841358184814 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 2.9279091358184814 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 2.9904050827026367 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.0855700969696045 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.1903140544891357 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.1903140544891357 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.1903140544891357 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.1903140544891357 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.2059404850006104 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.2059404850006104 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.221566677093506 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.2371890544891357 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.2371878623962402 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.2684390544891357 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.2684390544891357 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.2528128623962402 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.2840614318847656 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.2840614318847656 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.330930471420288 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.3465561866760254 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.3621785640716553 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.3934295177459717 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.377803325653076 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.4246747493743896 to load
+2021-02-08 18:12:12 INFO     [app.py:21] Page took 3.4873569011688232 to load
+2021-02-08 18:12:14 INFO     [app.py:21] Page took 5.265565872192383 to load
+2021-02-08 18:12:14 INFO     [app.py:21] Page took 5.265565872192383 to load
+2021-02-08 18:12:14 INFO     [app.py:21] Page took 5.265565872192383 to load
+2021-02-08 18:12:14 INFO     [app.py:21] Page took 5.281192064285278 to load
+2021-02-08 18:12:14 INFO     [app.py:21] Page took 5.265565872192383 to load
+2021-02-08 18:12:14 INFO     [app.py:21] Page took 5.265565872192383 to load
+2021-02-08 18:12:14 INFO     [app.py:21] Page took 5.249942779541016 to load
+2021-02-08 18:12:15 INFO     [app.py:21] Page took 5.7574028968811035 to load
+2021-02-08 18:12:15 INFO     [app.py:21] Page took 5.773029088973999 to load
+2021-02-08 18:13:26 INFO     [menu.py:22] Finding best books...
+2021-02-08 18:22:38 INFO     [app.py:36] Loading books list...
+2021-02-08 18:22:39 INFO     [app.py:21] Page took 1.0253307819366455 to load
+2021-02-08 18:22:40 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.563122272491455 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.5748937129974365 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.61309814453125 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.6230974197387695 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.6311008930206299 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.6401021480560303 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.656099796295166 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.6710963249206543 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.683095932006836 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.709092378616333 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.728092908859253 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.7414319515228271 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.748471975326538 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.7767927646636963 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.7853190898895264 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.7971243858337402 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.8181259632110596 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.867509365081787 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.8855094909667969 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.9045093059539795 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.918501377105713 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.930586814880371 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.9495849609375 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.9655861854553223 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 1.9795827865600586 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 2.125669240951538 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 2.247042417526245 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 2.315929412841797 to load
+2021-02-08 18:22:42 INFO     [app.py:21] Page took 2.341926097869873 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.3679208755493164 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.3699264526367188 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.390155076980591 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.3901567459106445 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.4251534938812256 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.45115065574646 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.462153434753418 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.484349489212036 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.505345106124878 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.510345458984375 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.533344030380249 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.5723390579223633 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.5643417835235596 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.5803382396698 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.593339443206787 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.604340076446533 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.633333683013916 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.7083308696746826 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 2.943877935409546 to load
+2021-02-08 18:22:43 INFO     [app.py:21] Page took 3.0039660930633545 to load
+2021-02-08 18:22:43 INFO     [app.py:49] Total page request took 3.086961030960083
+2021-02-08 19:32:48 INFO     [app.py:36] Loading books list...
+2021-02-08 19:32:50 INFO     [app.py:21] Page took 2.513814687728882 to load
+2021-02-08 19:32:52 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 1.9545373916625977 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 1.9675400257110596 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 1.9835302829742432 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.2726247310638428 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.2836244106292725 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.3036224842071533 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.29062557220459 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.31662654876709 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.314621686935425 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.3026208877563477 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.327625036239624 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.300628662109375 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.320620536804199 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.316622495651245 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.344625949859619 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.3616201877593994 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.341615915298462 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.3626182079315186 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.381620407104492 to load
+2021-02-08 19:32:54 INFO     [app.py:21] Page took 2.429614305496216 to load
+2021-02-08 19:32:55 INFO     [app.py:21] Page took 3.1101996898651123 to load
+2021-02-08 19:32:55 INFO     [app.py:21] Page took 3.0992000102996826 to load
+2021-02-08 19:32:55 INFO     [app.py:21] Page took 3.108194589614868 to load
+2021-02-08 19:32:55 INFO     [app.py:21] Page took 3.1021981239318848 to load
+2021-02-08 19:32:55 INFO     [app.py:21] Page took 3.138195753097534 to load
+2021-02-08 19:32:55 INFO     [app.py:21] Page took 3.0962038040161133 to load
+2021-02-08 19:32:55 INFO     [app.py:21] Page took 3.118199348449707 to load
+2021-02-08 19:32:55 INFO     [app.py:21] Page took 3.1232006549835205 to load
+2021-02-08 19:32:55 INFO     [app.py:21] Page took 3.127202272415161 to load
+2021-02-08 19:32:55 INFO     [app.py:21] Page took 3.1112077236175537 to load
+2021-02-08 19:32:55 INFO     [app.py:21] Page took 3.1232011318206787 to load
+2021-02-08 19:32:55 INFO     [app.py:21] Page took 3.154193878173828 to load
+2021-02-08 19:32:55 INFO     [app.py:21] Page took 3.1171975135803223 to load
+2021-02-08 19:32:55 INFO     [app.py:21] Page took 3.168194532394409 to load
+2021-02-08 19:32:56 INFO     [app.py:21] Page took 4.421104669570923 to load
+2021-02-08 19:32:56 INFO     [app.py:21] Page took 4.427107334136963 to load
+2021-02-08 19:32:56 INFO     [app.py:21] Page took 4.420101165771484 to load
+2021-02-08 19:32:56 INFO     [app.py:21] Page took 4.462098121643066 to load
+2021-02-08 19:32:56 INFO     [app.py:21] Page took 4.438107252120972 to load
+2021-02-08 19:32:57 INFO     [app.py:21] Page took 4.992059230804443 to load
+2021-02-08 19:33:00 INFO     [app.py:21] Page took 7.896849155426025 to load
+2021-02-08 19:33:08 INFO     [app.py:21] Page took 16.84718418121338 to load
+2021-02-08 19:33:10 INFO     [app.py:21] Page took 18.533061504364014 to load
+2021-02-08 19:33:11 INFO     [app.py:21] Page took 19.13301944732666 to load
+2021-02-08 19:33:11 INFO     [app.py:21] Page took 19.661978244781494 to load
+2021-02-08 19:33:12 INFO     [app.py:21] Page took 20.27693819999695 to load
+2021-02-08 19:33:13 INFO     [app.py:21] Page took 20.835968017578125 to load
+2021-02-08 19:33:13 INFO     [app.py:21] Page took 21.411921739578247 to load
+2021-02-08 19:33:15 INFO     [app.py:21] Page took 23.151801586151123 to load
+2021-02-08 19:33:23 INFO     [app.py:50] Total page request took 31.613917350769043
+2021-02-08 19:33:41 INFO     [menu.py:22] Finding best books...
+2021-02-08 19:33:44 INFO     [menu.py:31] Finding cheapest books...
+2021-02-08 19:33:48 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:49 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:49 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:49 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:50 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:50 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:50 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:50 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:51 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:51 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:51 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:51 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:52 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:52 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:52 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:52 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:53 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:53 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:53 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:54 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:54 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:54 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:54 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:55 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:55 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:55 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:55 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:55 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:56 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:56 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:56 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:56 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:56 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:33:57 INFO     [menu.py:40] Getting next book from books_generator
+2021-02-08 19:38:29 INFO     [app.py:36] Loading books list...
+2021-02-08 19:38:30 INFO     [app.py:21] Page took 0.9153366088867188 to load
+2021-02-08 19:38:30 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+2021-02-08 19:38:31 INFO     [app.py:21] Page took 0.7677996158599854 to load
+2021-02-08 19:38:31 INFO     [app.py:21] Page took 0.7677981853485107 to load
+2021-02-08 19:38:31 INFO     [app.py:21] Page took 0.783423662185669 to load
+2021-02-08 19:38:31 INFO     [app.py:21] Page took 0.799048662185669 to load
+2021-02-08 19:38:31 INFO     [app.py:21] Page took 0.8146734237670898 to load
+2021-02-08 19:38:31 INFO     [app.py:21] Page took 0.8146734237670898 to load
+2021-02-08 19:38:31 INFO     [app.py:21] Page took 0.8302977085113525 to load
+2021-02-08 19:38:31 INFO     [app.py:21] Page took 0.8146722316741943 to load
+2021-02-08 19:38:31 INFO     [app.py:21] Page took 0.8146722316741943 to load
+2021-02-08 19:38:31 INFO     [app.py:21] Page took 0.8459200859069824 to load
+2021-02-08 19:38:31 INFO     [app.py:21] Page took 0.8615484237670898 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.1117115020751953 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.1429567337036133 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.1429762840270996 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.2209012508392334 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.2365267276763916 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.2209012508392334 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.2677712440490723 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.2677712440490723 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.2833917140960693 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.2990200519561768 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.2990200519561768 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.2990200519561768 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.314640760421753 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.314640760421753 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.3302662372589111 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.3458914756774902 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.3302650451660156 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.3615131378173828 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.3615131378173828 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.3615131378173828 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.39276123046875 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.39276123046875 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.392758846282959 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.392758846282959 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.4083821773529053 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.4240105152130127 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.4240105152130127 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.4396297931671143 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.4396297931671143 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.4552562236785889 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.4708800315856934 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.4708800315856934 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.4708800315856934 to load
+2021-02-08 19:38:32 INFO     [app.py:21] Page took 1.502129077911377 to load
+2021-02-08 19:38:34 INFO     [app.py:21] Page took 3.5176241397857666 to load
+2021-02-08 19:38:34 INFO     [app.py:21] Page took 3.9707229137420654 to load
+2021-02-08 19:38:35 INFO     [app.py:21] Page took 4.42382025718689 to load
+2021-02-08 19:38:35 INFO     [app.py:21] Page took 4.892684459686279 to load
+2021-02-08 19:38:55 INFO     [app.py:50] Total page request took 24.377721309661865
+2021-02-08 20:28:08 INFO     [app.py:36] Loading books list...
+2021-02-08 20:28:09 INFO     [app.py:21] Page took 0.8189072608947754 to load
+2021-02-08 20:28:10 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.1208245754241943 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.144824504852295 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.1478228569030762 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.165815830230713 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.2227346897125244 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.230755090713501 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.2287683486938477 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.28776216506958 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.3017628192901611 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.3087637424468994 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.3157615661621094 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.3387541770935059 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.3637592792510986 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.3764736652374268 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.3784756660461426 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.3894760608673096 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.3934757709503174 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.4004783630371094 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.403479814529419 to load
+2021-02-08 20:28:11 INFO     [app.py:21] Page took 1.4364712238311768 to load
+2021-02-08 20:28:12 INFO     [app.py:21] Page took 1.4340205192565918 to load
+2021-02-08 20:28:12 INFO     [app.py:21] Page took 1.4300205707550049 to load
+2021-02-08 20:28:12 INFO     [app.py:21] Page took 1.4420182704925537 to load
+2021-02-08 20:28:12 INFO     [app.py:21] Page took 1.4590177536010742 to load
+2021-02-08 20:28:12 INFO     [app.py:21] Page took 1.521010398864746 to load
+2021-02-08 20:28:12 INFO     [app.py:21] Page took 1.5150344371795654 to load
+2021-02-08 20:28:12 INFO     [app.py:21] Page took 1.5200324058532715 to load
+2021-02-08 20:28:12 INFO     [app.py:21] Page took 1.549471378326416 to load
+2021-02-08 20:28:12 INFO     [app.py:21] Page took 1.5324692726135254 to load
+2021-02-08 20:28:12 INFO     [app.py:21] Page took 1.5634684562683105 to load
+2021-02-08 20:28:12 INFO     [app.py:21] Page took 1.5668857097625732 to load
+2021-02-08 20:28:14 INFO     [app.py:21] Page took 3.5627410411834717 to load
+2021-02-08 20:28:14 INFO     [app.py:21] Page took 4.110694885253906 to load
+2021-02-08 20:28:15 INFO     [app.py:21] Page took 4.677725553512573 to load
+2021-02-08 20:28:15 INFO     [app.py:21] Page took 5.270685911178589 to load
+2021-02-08 20:28:16 INFO     [app.py:21] Page took 5.835203409194946 to load
+2021-02-08 20:28:16 INFO     [app.py:21] Page took 6.420170068740845 to load
+2021-02-08 20:28:17 INFO     [app.py:21] Page took 7.035123348236084 to load
+2021-02-08 20:28:18 INFO     [app.py:21] Page took 7.5950775146484375 to load
+2021-02-08 20:28:18 INFO     [app.py:21] Page took 8.13633394241333 to load
+2021-02-08 20:28:19 INFO     [app.py:21] Page took 8.709291219711304 to load
+2021-02-08 20:28:19 INFO     [app.py:21] Page took 9.271251916885376 to load
+2021-02-08 20:28:20 INFO     [app.py:21] Page took 9.840025424957275 to load
+2021-02-08 20:28:20 INFO     [app.py:21] Page took 10.396170854568481 to load
+2021-02-08 20:28:21 INFO     [app.py:21] Page took 10.979288101196289 to load
+2021-02-08 20:28:24 INFO     [app.py:21] Page took 14.36390995979309 to load
+2021-02-08 20:28:25 INFO     [app.py:21] Page took 14.943878412246704 to load
+2021-02-08 20:28:26 INFO     [app.py:21] Page took 15.487825393676758 to load
+2021-02-08 20:28:26 INFO     [app.py:21] Page took 16.048786878585815 to load
+2021-02-08 20:28:40 INFO     [app.py:50] Total page request took 29.6067636013031
